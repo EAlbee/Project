@@ -16,8 +16,14 @@ Not sure if I can create a search of places in Madison...?
 week5 - create database
 
 week 6 - research technology from outside class room to use in project. Expand JSP.
+
 week 7 - create JUnit tests for week 5 items; code review
+
 week 8 - web services use in project??
+
 week 9 - logging and security - code review
+
 week 10 - Java doc
+
 week 11 -
+
