@@ -13,7 +13,7 @@ I want to be able to retrieve info based on a certain time period(per month), fo
 Not sure if I can create a search of places in Madison...?
 
 ## <a name="Project-Timeline"></a> Project Timeline
-week5 - create database
+week 5 - create database
 
 week 6 - research technology from outside class room to use in project. Expand JSP.
 
