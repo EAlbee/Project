@@ -14,7 +14,7 @@ A user will be able to retrieve info based on a certain time period(per month), 
 Not sure if I can create a search of places in Madison...?
 
 ## <a name="Project-Timeline"></a> Project Timeline
-###week 5
+**week 5
 * design UI
 * design database
 * document application flow
