@@ -6,6 +6,7 @@
 ## Table of Contents
 - [Project Overview] (#Project-Overview)
 - [Project Timeline] (#Project-Timeline)
+- [Project Status] (#Project-Status)
 
 ## <a name="Project-Overview"></a>Project Overview
 A site will be created where a user can enter Restaurant name, food item, datetime of visit, rating and cost of the visit.
@@ -36,3 +37,6 @@ week 10 - Java doc
 
 week 11 -
 
+## <a name="Project-Status"></a> Project Status
+week5 09/28
+      10/3 - starting project...
