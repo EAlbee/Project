@@ -8,14 +8,23 @@
 - [Project Timeline] (#Project-Timeline)
 
 ## <a name="Project-Overview"></a>Project Overview
-I want to create a site that I can enter Restaurant name, food item, datetime of visit, rating and cost of the visit.
-I want to be able to retrieve info based on a certain time period(per month), food item(ribs, pizza, fish fry...), or Restaurant that I have been to.
+A site will be created where a user can enter Restaurant name, food item, datetime of visit, rating and cost of the visit.
+A user will be able to retrieve info based on a certain time period(per month), food item(ribs, pizza, fish fry...), or Restaurant that they have been to.
 Not sure if I can create a search of places in Madison...?
 
 ## <a name="Project-Timeline"></a> Project Timeline
-week 5 - create database
+week 5
+        * design UI
+        * design database
+        * document application flow
+        * add blog
 
-week 6 - research technology from outside class room to use in project. Expand JSP.
+week 6 -
+        * find tech from outside classroom to use in project
+        * design classes
+        * create database tables
+        * basic JSP to test database connection
+        * add blog
 
 week 7 - create JUnit tests for week 5 items; code review
 
