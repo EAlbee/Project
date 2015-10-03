@@ -38,5 +38,13 @@ week 10 - Java doc
 week 11 -
 
 ## <a name="Project-Status"></a> Project Status
-week5 09/28
+week 4 09/28
 * 10/3 - starting project...
+
+week 5 10/05
+
+week 6 10/12
+
+week 7 10/19
+
+week 8 10/26
